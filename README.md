@@ -6,5 +6,5 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "python find meteorspy
+pipenv run "python find meteors.py"
 ```
