@@ -29,7 +29,7 @@ if __name__ == '__main__':
                                        float(meteor['reclong']),
                                        my_loc[0],
                                        my_loc[1])
-
+#asda asdasdasd
     meteor_data.sort(key=get_dist)
 
     print(meteor_data[0:10])
